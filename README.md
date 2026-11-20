@@ -1,27 +1,77 @@
-# Pedro Jr
+<div align="center">
 
-**Ciência de Dados · Machine Learning · MLOps**  
+# Pedro Jr.
+
+### Data Scientist · Machine Learning · MLOps
+
 `pedrojr.ds`
 
-Sou formado em Ciência da Computação pela Universidade Federal do Ceará (UFC), Campus Quixadá. Atuo com análise de dados, desenvolvimento de modelos de Machine Learning e implantação de soluções de ML.
+**Building intelligent solutions through data, research, and engineering.**
 
-## Código aberto
+[![GitHub](https://img.shields.io/badge/GitHub-pedroccufc-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroccufc)
+[![Open Source](https://img.shields.io/badge/Open%20Source-PyMove-2563EB?style=flat-square)](https://github.com/InsightLab/PyMove)
 
-### PyMove · InsightLab
+</div>
 
-Contribuí para o PyMove, uma biblioteca Python para processamento e visualização de trajetórias e dados espaço-temporais. [Conheça o projeto](https://github.com/InsightLab/PyMove)
+---
 
-- **Aumento de dados de trajetórias** — implementei funções para construir grafos de transição com NetworkX, salvar e ler esses grafos em JSON e gerar trajetórias a partir de caminhos no grafo. [PR #210](https://github.com/InsightLab/PyMove/pull/210)
-- **Discretização espacial** — implementei a discretização de trajetórias em uma grade e a conversão para o tipo `PandasDiscreteMoveDataFrame`. [PR #126](https://github.com/InsightLab/PyMove/pull/126)
-- **Operações geoespaciais** — contribuí com utilitários baseados em GeoPandas, incluindo a verificação de pontos dentro de polígonos. [PR #112](https://github.com/InsightLab/PyMove/pull/112)
-- **Visualização de trajetórias** — ajustei o controle de camadas para que o mapa abra com os pontos visíveis. [PR #152](https://github.com/InsightLab/PyMove/pull/152)
+## About Me
 
-[Ver todas as minhas pull requests no PyMove](https://github.com/InsightLab/PyMove/pulls?q=is%3Apr+author%3Apedroccufc)
+I'm **Pedro Jr**, a Brazilian **Data Scientist** with a degree in **Computer Science from the Federal University of Ceará (UFC), Quixadá campus**.
 
-## Projetos selecionados
+My interests sit at the intersection of **data science, machine learning, and software engineering** — turning complex problems into reliable, well-engineered solutions. My background includes academic projects, practical experimentation, and open-source collaboration.
 
-- **Machine Learning na nuvem** — guia prático para levar modelos em Python do treinamento à implantação no Google Cloud. [Ver repositório](https://github.com/pedroccufc/deploy-python-applications-on-google-cloud-platform)
-- **Competições Kaggle** — repositório dedicado a competições de ciência de dados. [Ver repositório](https://github.com/pedroccufc/kaggle-competitions)
-- **Reconhecimento facial com ArcFace** — adaptação do exemplo do LearnOpenCV, com instruções em português para facilitar a instalação e o uso. [Ver repositório](https://github.com/pedroccufc/face-recognition-with-arcface)
+## What I Work With
 
-[Explorar meus repositórios públicos](https://github.com/pedroccufc?tab=repositories)
+**Languages & data**  
+`Python` · `SQL` · `Pandas` · `NumPy` · `PySpark`
+
+**Machine learning**  
+`Scikit-learn` · `CatBoost` · `Optuna`
+
+**Data engineering & MLOps**  
+`Databricks` · `Apache Spark` · `MLflow` · `dbt`
+
+**Engineering & tools**  
+`Git` · `GitHub Actions` · `pytest` · `Streamlit`
+
+---
+
+## Open Source
+
+### [PyMove · Insight Data Science Lab](https://github.com/InsightLab/PyMove)
+
+During my undergraduate studies, I contributed to **PyMove**, an open-source Python library for processing, analyzing, and visualizing spatial-temporal trajectory data.
+
+Selected contributions:
+
+- **Trajectory data augmentation:** transition graphs using NetworkX, JSON graph persistence, and trajectory generation. [PR #210](https://github.com/InsightLab/PyMove/pull/210)
+- **Spatial discretization:** trajectory discretization on a grid and conversion to `PandasDiscreteMoveDataFrame`. [PR #126](https://github.com/InsightLab/PyMove/pull/126)
+- **Geospatial operations:** GeoPandas-based utilities, including point-in-polygon checks. [PR #112](https://github.com/InsightLab/PyMove/pull/112)
+- **Trajectory visualization:** improvements to map layer controls. [PR #152](https://github.com/InsightLab/PyMove/pull/152)
+
+[Explore my PyMove pull requests](https://github.com/InsightLab/PyMove/pulls?q=is%3Apr+author%3Apedroccufc)
+
+## Selected Projects
+
+| Project | Description |
+| :--- | :--- |
+| [Face Recognition with ArcFace](https://github.com/pedroccufc/face-recognition-with-arcface) | Educational adaptation of an existing open-source computer vision implementation exploring facial embeddings and similarity. Original authors are credited in the repository. |
+| [Machine Learning Studies](https://github.com/pedroccufc/machine-learn) | Academic notebooks and experiments involving data analysis and predictive modeling. |
+| [Python Applications on Google Cloud](https://github.com/pedroccufc/deploy-python-applications-on-google-cloud-platform) | Technical notes on Python development environments and cloud-oriented application deployment. |
+
+[Explore all public repositories](https://github.com/pedroccufc?tab=repositories)
+
+---
+
+## Areas of Interest
+
+Machine Learning Engineering · Predictive Analytics · Data Engineering · MLOps · Applied AI · Scientific Computing
+
+<div align="center">
+
+**Always learning. Always building.**
+
+<sub>Pedro Jr. · pedrojr.ds</sub>
+
+</div>
