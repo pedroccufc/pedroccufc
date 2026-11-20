@@ -19,9 +19,9 @@
 
 I'm **Pedro Jr**, a Brazilian **Data Scientist** with a degree in **Computer Science from the Federal University of Ceará (UFC), Quixadá campus**.
 
-My interests sit at the intersection of **data science, machine learning, and software engineering** — turning complex problems into reliable, well-engineered solutions. My background includes academic projects, practical experimentation, and open-source collaboration.
+I work at the intersection of **data science, machine learning, and software engineering**. My technical journey includes original academic work, practical programming exercises, and contributions to open-source software.
 
-## What I Work With
+## Technical Skills
 
 **Languages & data**  
 `Python` · `SQL` · `Pandas` · `NumPy` · `PySpark`
@@ -37,7 +37,17 @@ My interests sit at the intersection of **data science, machine learning, and so
 
 ---
 
-## Open Source
+## Projects & Implementations
+
+A selection of work from my programming and university journey. The repositories contain academic implementations and learning projects; they are presented as such, without claims of production deployment.
+
+| Repository | Focus |
+| :--- | :--- |
+| [Distributed Systems](https://github.com/pedroccufc/distributed-systems) | Java assignments covering sockets, RMI, and a final coursework project |
+| [Web Software Development](https://github.com/pedroccufc/software-development-web) | Front-end and back-end work in the `sigru` project |
+| [Programming Challenges](https://github.com/pedroccufc/programming-challenges) | C++ exercises involving data structures, greedy algorithms, binary search, and dynamic programming |
+
+## Open Source Contributions
 
 ### [PyMove · Insight Data Science Lab](https://github.com/InsightLab/PyMove)
 
@@ -52,21 +62,27 @@ Selected contributions:
 
 [Explore my PyMove pull requests](https://github.com/InsightLab/PyMove/pulls?q=is%3Apr+author%3Apedroccufc)
 
-## Selected Projects
+## Education & Learning
 
-| Project | Description |
+My academic and course repositories document how I explored algorithms, data analysis, Machine Learning, and software development.
+
+| Repository | Focus |
 | :--- | :--- |
-| [Face Recognition with ArcFace](https://github.com/pedroccufc/face-recognition-with-arcface) | Educational adaptation of an existing open-source computer vision implementation exploring facial embeddings and similarity. Original authors are credited in the repository. |
-| [Machine Learning Studies](https://github.com/pedroccufc/machine-learn) | Academic notebooks and experiments involving data analysis and predictive modeling. |
-| [Python Applications on Google Cloud](https://github.com/pedroccufc/deploy-python-applications-on-google-cloud-platform) | Technical notes on Python development environments and cloud-oriented application deployment. |
+| [Machine Learning Studies](https://github.com/pedroccufc/machine-learn) | Classification metrics, distance measures, bank marketing, ENEM, and exercises |
+| [Data Mining](https://github.com/pedroccufc/data-mining) | Data mining coursework and notebooks |
+| [Operational Research](https://github.com/pedroccufc/operational-research) | Operational research assignments in C++ |
+| [Kaggle Competitions](https://github.com/pedroccufc/kaggle-competitions) | Competition practice, including the Titanic project |
+| [Rocketseat Omnistack](https://github.com/pedroccufc/rocketseat-omnistack) | Course and workshop projects such as Be The Hero and NLW |
 
-[Explore all public repositories](https://github.com/pedroccufc?tab=repositories)
+These repositories represent educational work, not necessarily independently conceived or production-ready products.
+
+[Explore my public repositories](https://github.com/pedroccufc?tab=repositories)
 
 ---
 
 ## Areas of Interest
 
-Machine Learning Engineering · Predictive Analytics · Data Engineering · MLOps · Applied AI · Scientific Computing
+Machine Learning Engineering · Data Engineering · MLOps · Applied AI · Scientific Computing
 
 <div align="center">
 
